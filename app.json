@@ -1,7 +1,12 @@
 {
+  "name": "my-react-app",
+  "displayName": "My React App",
   "expo": {
     "experiments": {
       "turboModules": true
+    },
+    "android": {
+      "package": "com.loganlim.testReanimatedV2"
     }
   }
 }
